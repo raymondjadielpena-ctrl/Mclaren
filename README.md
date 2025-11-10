@@ -1,3 +1,4 @@
+
 # McLaren-2025-Speedster
 Cool Car Build 🚗💨 – McLaren 2025 “Speedster” with glossy blue and black accents
 
@@ -10,4 +11,4 @@ https://raw.githubusercontent.com/raymondjadielpena-ctrl/McLaren-2025-Speedster/
 ## Notes:
 - Image is stored in the main branch of the repo.  
 - Paste the raw link in Discord to preview the image.  
-- Make sure your image file name matches exactly, including capitalization..
+- Make sure your image file name matches exactly, including capitalization.
